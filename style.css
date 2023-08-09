@@ -1,0 +1,47 @@
+*{
+    font-family: 'Pacifico', cursive;
+    text-align: center;
+    text-decoration: underline chocolate;
+    word-spacing: 8px;
+}
+.h1{
+    background-color: rgba(0, 128, 0, 0.096); 
+    text-shadow: 1px 1px 0px rgba(0, 128, 0, 0.403);
+}
+.h2{
+    background-color: rgba(0, 100, 0, 0.188);
+    text-shadow: 1px 1px 0px rgba(0, 128, 0, 0.501);
+}
+.h3{
+    background-color: rgba(0, 128, 0, 0.264);
+    text-shadow: 1px 1px 0px rgba(0, 128, 0, 0.605);
+}
+.h4{
+    background-color: rgba(0, 100, 0, 0.338);
+    text-shadow: 1px 1px 0px rgba(0, 128, 0, 0.709);
+}
+.h5{
+    background-color: rgba(0, 100, 0, 0.407);
+    text-shadow: 1px 1px 0px rgba(255, 255, 255, 0.556)
+}
+.h6{
+    background-color: rgba(0, 100, 0, 0.534);
+    text-shadow: 1px 1px 0px rgba(255, 255, 255, 0.604)
+}
+.h7{
+    background-color: rgba(0, 100, 0, 0.621);
+    text-shadow: 1px 1px 0px rgba(255, 255, 255, 0.653)
+    
+}
+.h8{
+    background-color: rgba(0, 100, 0, 0.678);
+    text-shadow: 1px 1px 0px rgba(255, 255, 255, 0.704)
+}
+.h9{
+    background-color: rgba(0, 100, 0, 0.746);
+    text-shadow: 1px 1px 0px rgba(255, 255, 255, 0.751)
+}
+.h10{
+    background-color: rgba(0, 100, 0, 0.872);
+    text-shadow: 1px 1px 0px rgba(255, 255, 255, 0.832)
+}
